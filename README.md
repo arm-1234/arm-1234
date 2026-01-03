@@ -12,7 +12,7 @@
 </p>
 
 <p>
-  <a href="https://www.linkedin.com/in/arman-ansari/">
+  <a href="https://www.linkedin.com/in/armsri/">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin"/>
   </a>
   <a href="https://github.com/arm-1234">
